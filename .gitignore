@@ -1,1 +1,4 @@
 *.pdf
+*.csv
+.venv
+.DS_Store
